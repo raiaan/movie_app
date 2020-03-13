@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieFragment</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinner_value">
+        <item>most Popular</item>
+        <item>Top rated</item>
+        <item>favorite</item>
+    </string-array>
+    <string name="title_activity_detail">Detail</string>
+</resources>
