@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7299ad95bf4d5ba84f52ec3037b0e7d7\design-24.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8f1224589354c6395c2430b5c22e65ae\appcompat-v7-24.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fba121fa1d421923a51c3f80fbd3a017\animated-vector-drawable-24.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\17ff890534b5398d5781c81de53e643d\support-vector-drawable-24.1.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3ccb304885423ce2b8a5308d5904a095\recyclerview-v7-24.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\83b2ba9df4ceaea038aa098ecf410ad5\support-v4-24.1.1\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:design:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7299ad95bf4d5ba84f52ec3037b0e7d7\design-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7299ad95bf4d5ba84f52ec3037b0e7d7\design-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8f1224589354c6395c2430b5c22e65ae\appcompat-v7-24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8f1224589354c6395c2430b5c22e65ae\appcompat-v7-24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fba121fa1d421923a51c3f80fbd3a017\animated-vector-drawable-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fba121fa1d421923a51c3f80fbd3a017\animated-vector-drawable-24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\17ff890534b5398d5781c81de53e643d\support-vector-drawable-24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\17ff890534b5398d5781c81de53e643d\support-vector-drawable-24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\83b2ba9df4ceaea038aa098ecf410ad5\support-v4-24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\83b2ba9df4ceaea038aa098ecf410ad5\support-v4-24.1.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.rayaan.moviefragment.MainActivity
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.rayaan.moviefragment.Detail
+ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:23:9-27:68
+	android:parentActivityName
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:26:13-55
+	android:label
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:25:13-58
+	android:theme
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml:24:13-35
+uses-sdk
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7299ad95bf4d5ba84f52ec3037b0e7d7\design-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7299ad95bf4d5ba84f52ec3037b0e7d7\design-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8f1224589354c6395c2430b5c22e65ae\appcompat-v7-24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8f1224589354c6395c2430b5c22e65ae\appcompat-v7-24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fba121fa1d421923a51c3f80fbd3a017\animated-vector-drawable-24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fba121fa1d421923a51c3f80fbd3a017\animated-vector-drawable-24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\17ff890534b5398d5781c81de53e643d\support-vector-drawable-24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\17ff890534b5398d5781c81de53e643d\support-vector-drawable-24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3ccb304885423ce2b8a5308d5904a095\recyclerview-v7-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3ccb304885423ce2b8a5308d5904a095\recyclerview-v7-24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\83b2ba9df4ceaea038aa098ecf410ad5\support-v4-24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\83b2ba9df4ceaea038aa098ecf410ad5\support-v4-24.1.1\AndroidManifest.xml:21:5-23:54
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8f1224589354c6395c2430b5c22e65ae\appcompat-v7-24.1.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android projects\movie_app\app\src\main\AndroidManifest.xml
