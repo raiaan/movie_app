@@ -5,9 +5,9 @@
 <a href="https://review.udacity.com/#!/rubrics/67/view">here : </a></p>
  <h3>project dependencies</h3>
   <ul>
-    <li><p><strong>retrofit: </strong>for calling network and parse json data <a href="https://square.github.io/retrofit/">read more about it</a></p><li>
-    <li><p><strong>Butter Knife: </strong>to make bind views simpler<a href="https://github.com/JakeWharton/butterknife">read more about it</a></p><li>
-    <li><p><strong>Picasso: </strong>to load movie posters from network to the image view<a href=https://square.github.io/picasso/">read more about it</a></p><li>
+    <li><p><strong>retrofit: </strong>for calling network and parse json data <a href="https://square.github.io/retrofit/">read more about it</a></p></li>
+    <li><p><strong>Butter Knife: </strong>to make bind views simpler<a href="https://github.com/JakeWharton/butterknife">read more about it</a></p></li>
+    <li><p><strong>Picasso: </strong>to load movie posters from network to the image view<a href=https://square.github.io/picasso/">read more about it</a></p></li>
   </ul>
      
 <h3>this app consist of 2 activities</h3>
@@ -27,6 +27,6 @@
       <li>movie trailers list</li>
       <li>reviews list</li>
     </ol>
-  <li>
+  </li>
 </ul>
 
